@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\Grocery App\bin\Debug\net7.0\Grocery App.exe
+C:\Users\HP\Desktop\Grocery App\bin\Debug\net7.0\Grocery App.deps.json
+C:\Users\HP\Desktop\Grocery App\bin\Debug\net7.0\Grocery App.runtimeconfig.json
+C:\Users\HP\Desktop\Grocery App\bin\Debug\net7.0\Grocery App.dll
+C:\Users\HP\Desktop\Grocery App\bin\Debug\net7.0\Grocery App.pdb
+C:\Users\HP\Desktop\Grocery App\obj\Debug\net7.0\Grocery App.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Grocery App\obj\Debug\net7.0\Grocery App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Grocery App\obj\Debug\net7.0\Grocery App.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Grocery App\obj\Debug\net7.0\Grocery App.AssemblyInfo.cs
+C:\Users\HP\Desktop\Grocery App\obj\Debug\net7.0\Grocery App.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Grocery App\obj\Debug\net7.0\Grocery App.dll
+C:\Users\HP\Desktop\Grocery App\obj\Debug\net7.0\refint\Grocery App.dll
+C:\Users\HP\Desktop\Grocery App\obj\Debug\net7.0\Grocery App.pdb
+C:\Users\HP\Desktop\Grocery App\obj\Debug\net7.0\Grocery App.genruntimeconfig.cache
+C:\Users\HP\Desktop\Grocery App\obj\Debug\net7.0\ref\Grocery App.dll
